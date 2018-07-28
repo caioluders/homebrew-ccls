@@ -1,7 +1,7 @@
 class Ccls < Formula
   desc "A C/C++ language server"
   homepage "https://github.com/caioluders/ccls"
-  url "https://github.com/caioluders/ccls.git", :tag => "0.20180521", :revision => "fe266bd45d827a01e4f0f84b5ebd661006d0d371"
+  url "https://github.com/caioluders/ccls.git", :tag => "fuckme", :revision => "fe266bd45d827a01e4f0f84b5ebd661006d0d371"
   head "https://github.com/caioluders/ccls.git"
 
   option "with-build-debug", "Configures ccls to be built in debug mode"
